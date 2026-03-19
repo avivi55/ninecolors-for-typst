@@ -1,0 +1,7 @@
+[package]
+name = "ninecolors-for-typst"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Jacques Soghomonyan"]
+license = "Unlicense"
+description = "A port of the CTAN ninecolors package to Typst, that provides colors with proper WCAG color contrast."
