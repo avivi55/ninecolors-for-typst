@@ -1,5 +1,5 @@
 [package]
-name = "ninecolors-for-typst"
+name = "ninecolors"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Jacques Soghomonyan"]
